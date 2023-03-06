@@ -1,6 +1,6 @@
 # BMI with Animation
 
-BMI Calculator
+BMI Calculator | Multipul Slider
 
 <table>
   <tr>
